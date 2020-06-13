@@ -31,6 +31,6 @@ vnoremap <leader>, :call AppendCharacter(",")<cr>
 " ====================
 
 " normal mode mapping
-nnoremap <leader>, :call AppendCharacter(";")<cr>
+nnoremap <leader>; :call AppendCharacter(";")<cr>
 " visual mode mapping
-vnoremap <leader>, :call AppendCharacter(";")<cr>
+vnoremap <leader>; :call AppendCharacter(";")<cr>
